@@ -33,7 +33,7 @@ body {
 } */
 
 section {
-    max-width: 1000px;
+    width: 100%;
 }
 
 .info {
