@@ -41,6 +41,7 @@ section {
     background-color: rgb(26, 26, 241);
     justify-content: center;
     gap: 80px;
+    padding-bottom: 10px;
 }
 
 article {
